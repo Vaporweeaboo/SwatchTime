@@ -1,3 +1,5 @@
+![SwatchTime Screenshot](https://imgur.com/GovAF5g.png)
+
 # SwatchTime Clock
 
 A simple Rainmeter Skin for displaying [Swatch Internet Time.](https://en.wikipedia.org/wiki/Swatch_Internet_Time)
