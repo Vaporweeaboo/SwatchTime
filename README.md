@@ -2,7 +2,7 @@
 
 A simple Rainmeter Skin for displaying [Swatch Internet Time.](https://en.wikipedia.org/wiki/Swatch_Internet_Time)
 
-##Customization
+## Customization
 
 By default, this skin comes with one terminal-style font. More can be used by dropping any .otf/.ttf into /SwatchTime/@Resources/Fonts, then opening SwatchTime.ini in your favorite text editor.
 
